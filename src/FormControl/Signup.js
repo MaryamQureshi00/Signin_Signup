@@ -109,11 +109,7 @@ export default function Signup() {
                 </Button>
             </p>
 
-
-
-            password lorem 18
-            username lorem 12
-            email lorem 20@example.com
+existiing changes here 
         </div>
     );
 }

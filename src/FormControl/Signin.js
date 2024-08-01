@@ -1,9 +1,13 @@
-import React from 'react'
+export default function Signin(){
 
-export default function Signin() {
-  return (
-    <div>
-      
-    </div>
-  )
+
+
+    return(
+        <>
+
+yah folder phaly sa tha hamare pass but mane file extention change ky thy sahi 
+
+
+        </>
+    )
 }
